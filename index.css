@@ -1,0 +1,69 @@
+.module-one {
+  background-color: #003049;
+}
+.module-two {
+  background-color: #D62828;
+}
+.module-three {
+  background-color: #f77f00;
+}
+.module-four {
+  background-color: #fcbf49;
+}
+.module-five {
+  background-color: #EED784;
+}
+.module-six {
+  background-color: #003049;
+}
+.module-seven {
+  background-color: #D62828;
+}
+.module-eight {
+  background-color: #f77f00;
+}
+.module-nine {
+  background-color: #fcbf49;
+}
+.module-ten {
+  background-color: #EED784;
+}
+
+.module-one,
+.module-two,
+.module-three,
+.module-four,
+.module-five,
+.module-six,
+.module-seven,
+.module-eight,
+.module-nine,
+.module-ten{
+  width: 100%;
+  padding: 1em 3em 2em 2em;
+  margin: 0.5em;
+  color: whitesmoke;
+  font-family: sans-serif;
+}
+
+.projects-button {
+  padding: 0.75em 1.25em;
+  background-color: whitesmoke;
+  opacity: 0.9;
+  width: 10em;
+  color: black;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.projects {
+  margin: 1em 0;
+}
+
+.active {
+  background-color: #333333;
+  color: whitesmoke;
+}
